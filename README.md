@@ -1,1 +1,1 @@
-"# Shop-E" 
+# Shop-E is an internet retail site offering an enhanced customer experience through an Express API to interact with MySQL databases using Sequelize
